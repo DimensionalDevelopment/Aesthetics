@@ -1,0 +1,14 @@
+aesthetics.changes=Aesthetic Changes
+aesthetics.changes.tooltip=Enable and Disable Aesthetic Changes
+aesthetics.sb=Scoreboard Options
+aesthetics.sb.tooltip=Change various scoreboard options
+
+aesthetics.scoreboard.default=Default
+aesthetics.scoreboard.spaced_clear=Spaced Clear
+aesthetics.scoreboard.edge_clear=Edge Clear
+
+aesthetics.config.scoreboardChanges=Enable scoreboard changes
+aesthetics.config.scoreboardChanges.tooltip=§cThis will require a Minecraft restart if changed
+
+aesthetics.config.scoreboard.scoreboardLook=How should the scoreboard look
+aesthetics.config.scoreboard.scoreboardLook.tooltip=Choose between: Default, Spaced Clear, and Edge Clear
